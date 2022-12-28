@@ -45,6 +45,7 @@ add_library(r_433 STATIC
     util.c
     write_sigrok.c
     devices/abmt.c
+    devices/aliexpress_meat_thermometer.c
     devices/acurite.c
     devices/acurite_01185m.c
     devices/akhan_100F14.c
@@ -83,6 +84,7 @@ add_library(r_433 STATIC
     devices/digitech_xc0324.c
     devices/directv.c
     devices/dish_remote_6_3.c
+    devices/doorbell.c
     devices/dsc.c
     devices/ecodhome.c
     devices/ecowitt.c

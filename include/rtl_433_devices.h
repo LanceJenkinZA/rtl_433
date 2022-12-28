@@ -231,7 +231,8 @@
     DECL(fineoffset_wn34) \
     DECL(rubicson_pool_48942) \
     DECL(badger_orion) \
-
+    DECL(alimeatthermo)\
+    DECL(doorbell)           \
     /* Add new decoders here. */
 
 #define DECL(name) extern r_device name;
